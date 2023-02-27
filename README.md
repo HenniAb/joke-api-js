@@ -3,7 +3,7 @@
 A lightweight and a simple Joke app created in JavaScript with API.
 
 This project was a lightweight javascript-based Joke taker, done in order to pick up and further strengthen my skills in JavaScript. 
-As a result whilst it isn't the prettiest or most functional it  was done in order to increase my proficiency in the language.
+As a result whilst it isn't the prettiest or most functional it  was done in order to increase my proficiency in the languages.
 
 
 ## 📌 Tech Stack

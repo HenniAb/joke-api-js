@@ -1,4 +1,4 @@
-# Joke with API-JS
+# Joke with API-JS:
 
 A lightweight and a simple Joke app created in JavaScript with API.
 
